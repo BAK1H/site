@@ -1,0 +1,10 @@
+body{
+	background: #cccccc;
+}
+
+img {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	display: block;
+	margin: 0px auto;
+}
